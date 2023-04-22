@@ -6,7 +6,6 @@ const AboutSection = styled.section`
   background-image: url('./img/about me.jpg');
   background-repeat: no-repeat;
   background-size: fill;
-  background-align: bottom;
   padding: 100px 50px;
 `;
 
